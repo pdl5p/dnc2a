@@ -15,7 +15,7 @@ namespace DNC2a.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description";
+            ViewData["Message"] = "Your application description X";
 
             return View();
         }
